@@ -1,4 +1,4 @@
-Introduction to Data Science in the Tidyverse
+Introduction to Data Science in the Tidyverse.
 ================
 
 ### rstudio::conf 2020
